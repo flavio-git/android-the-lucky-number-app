@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lucky Number App</string>
+    <string name="tv_welcome_message">Welcome to Lucky Number</string>
+    <string name="et_user_name">Please Enter your Name</string>
+    <string name="button_sign_in">SIGN IN</string>
+    <string name="btn_share_my_lucky_number">share my lucky number</string>
+    <string name="tv_your_lucky_number_is">Your Lucky Number is:</string>
+</resources>
